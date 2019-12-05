@@ -1,0 +1,24 @@
+{
+  "name": "html-form-project",
+  "version": "1.0.0",
+  "description": "microverse html form project",
+  "main": "stylelint.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-recommended": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotivateJ/HTML-Form-project.git"
+  },
+  "author": "MotivateJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MotivateJ/HTML-Form-project/issues"
+  },
+  "homepage": "https://github.com/MotivateJ/HTML-Form-project#readme"
+}
