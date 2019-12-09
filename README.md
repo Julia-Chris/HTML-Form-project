@@ -2,9 +2,6 @@
 This is the second project from the Microverse HTML/CSS Main curriculum. The project is about rebuilding Mint.com form for signing up new users. It is under the Odin project curriculum that serves to practice creating and styling forms. 
 # Built with
 The Mint.com project is built using HTML5, CSS3, Flexbox and font awesome for different icons.
-# Live Demo
-Click on the link
-
 # Getting Started
 Use a text editor of your choice. In this case VSCode is used with an inbuilt Live server that helps in previewing the changes made bit by bit
 # Authors
