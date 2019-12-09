@@ -21,5 +21,10 @@ Facebook: https://www.facebook.com/juwamu
 # contributing
 Any contributions, issues and feature requests are welcome!
 Feel free to check the issues page.
+# Show your Support
+Give a ⭐️ if you like this project!
+# Acknowledgements
+We would like to express our special thanks of gratitude to Microverse Inc for giving us the opportunity to be here and work on this project. We are also grateful to the Odin project for providing the platform for us to make our contributions. Finally, we appreciate Mint.com for allowing us to rebuild their form
+
 
 
